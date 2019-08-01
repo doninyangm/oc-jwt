@@ -1,0 +1,6 @@
+plugin:
+    name: 'October JWT Libary'
+    description: 'Starter Plugin implementing JWT encode and decrpyt on October'
+    author: Inyang
+    icon: oc-icon-ticket
+    homepage: ''

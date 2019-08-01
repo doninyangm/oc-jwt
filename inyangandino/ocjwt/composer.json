@@ -1,0 +1,16 @@
+{
+    "name": "novaji/october-jwt",
+    "type": "october-plugin",
+    "description": "OctoberCMS plugin for JWT encryption the decryption",
+    "homepage": "https://github.com/doninyangm",
+    "authors": [
+      {
+        "name": "Inyang Andino",
+        "email": "doninyangm@gmail.com"
+      }
+    ],
+    "require": {
+      "mews/purifier": "~2.0",
+      "firebase/php-jwt": "dev-master"
+    }
+}
