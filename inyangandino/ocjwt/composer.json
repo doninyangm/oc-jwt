@@ -1,5 +1,5 @@
 {
-    "name": "novaji/october-jwt",
+    "name": "doninyangm/oc-jwt",
     "type": "october-plugin",
     "description": "OctoberCMS plugin for JWT encryption the decryption",
     "homepage": "https://github.com/doninyangm",
